@@ -1,16 +1,29 @@
-### Hi there 👋
+Jeremy Cotto
+#### Systems Engineer, Enterprise Architect, and Developer
+With over 17 years in IT, I've evolved from a System administrator to an accomplished Enterprise Technology Architect, leading teams responsible for critical Enterprise Medical Digital Imaging Information products nationwide. My journey showcases a deep understanding of technology platforms, demonstrated through hands-on roles and leadership positions. Throughout my career, I've embraced unconventional thinking, often reverse engineering applications to enhance deployment, usability, and administration. This unique approach has consistently led to successful outcomes, making me adept at tackling complex challenges head-on.
 
-<!--
-**mrjmc99/mrjmc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been involved with desktop management, server management, front end application support, documentation/education and development, which makes my experience unique and compliments my ability to tackle new challenges.
 
-Here are some ideas to get you started:
+Short list of some applications/solutions I work with on a daily basis:
+-Agfa Enterprise Imaging PACS
+-Epic EHR
+-Nuance Powerscribe360
+-Terarecon
+-Siemens Syngo.Via
+-Philips Dynacad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Operation systems that i use on a daily basis and support:
+-Windows Desktop/Server 10/11/2016-2022
+-Oracle Linux 7-8
+-Ubuntu 20
+
+Skills: Batch / Powershell / Bash / Python / HTML / JS / CSS 
+
+- 🔭 I’m currently working on Custom Scripts and Web administration tools to improve the maintenance and support the applications that my teams manage 
+- 🌱 I’m currently learning Python / HTML 
+- 👯 I’m looking to collaborate on Tools to improve end user and administrative experiances 
+- ⚡ Fun fact: I have over 300 skydives 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrjmc99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeremy-c-bb2a6ba1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrjmc99)  
+
