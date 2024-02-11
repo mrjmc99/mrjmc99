@@ -1,5 +1,5 @@
 Jeremy Cotto
-#### Systems Engineer, Enterprise Architect, and Developer
+#### Application Engineer, Systems Engineer, and Enterprise Architect
 With over 17 years in IT, I've evolved from a System administrator to an accomplished Enterprise Technology Architect, leading teams responsible for critical Enterprise Medical Digital Imaging Information products nationwide. My journey showcases a deep understanding of technology platforms, demonstrated through hands-on roles and leadership positions. Throughout my career, I've embraced unconventional thinking, often reverse engineering applications to enhance deployment, usability, and administration. This unique approach has consistently led to successful outcomes, making me adept at tackling complex challenges head-on.
 
 I have been involved with desktop management, server management, front end application support, documentation/education and development, which makes my experience unique and compliments my ability to tackle new challenges.
